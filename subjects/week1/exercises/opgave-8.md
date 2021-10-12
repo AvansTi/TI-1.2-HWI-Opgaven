@@ -9,6 +9,6 @@
 >> Voor het meten van spanning gebruik je een andere aansluiting dan voor het meten van de stroom
 >> * Kloppen deze gemeten waarden met de verwachte waarden? Neem je berekening op in het groeidocument.
 >>
->> ![Meten LED](include_relative images/meten-led.png)
+>> ![Meten LED](exercises/images/meten-led.png)
 >>
 >{: .exercise}

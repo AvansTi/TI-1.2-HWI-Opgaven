@@ -25,9 +25,9 @@ Maak van alle hardware die je op het breadboard van de Boebot zet zowel een elek
 Voor de opdrachten hierna heb je de extra Hardware kit nodig.  De Hardware kit bestaat uit een 
 Breadboard, componenten en meetsnoeren:
 
-![Breadboard](include_relative images/breadboard.jpg)
-![Componenten](include_relative images/componenten.jpg)
-![Meetsnoeren](include_relative images/meetsnoeren.jpg)
+![Breadboard](images/breadboard.jpg)
+![Componenten](images/componenten.jpg)
+![Meetsnoeren](images/meetsnoeren.jpg)
 
 De weerstanden onder de componenten zijn van de E12 reeks:
 10-12-15-18-22-27-33-39-47-56-68-82

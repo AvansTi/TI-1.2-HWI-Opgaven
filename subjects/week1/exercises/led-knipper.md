@@ -7,6 +7,6 @@
 >> * Laat de LED knipperen, 0.1 seconde aan, 0.1 seconde uit
 >> * Probeer zelf een aantal knippersnelheden uit. Vanaf welke snelheid lijkt het alsof de LED continu brandt?
 >>
->> ![Installatie](include_relative images/led-circuit.png)
+>> ![Installatie](exercises/images/led-circuit.png)
 >>
 >{: .exercise}

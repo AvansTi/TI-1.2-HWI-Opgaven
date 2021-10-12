@@ -3,7 +3,9 @@
 >> Neem uit de extra hardware kit een 470Ω, 4700Ω (4k7) en een 47000Ω (47k) weerstand.
 >>
 >> * Maak de volgende schakeling. 
->> ![Installatie](include_relative images/serial-circuit.png)
+>>
+>> ![Installatie](exercises/images/serial-circuit.png)
+>>
 >> * Bereken de vervangingsweerstand en meet vervolgens met de multimeter of dit klopt.
 >> * VCC = 10V, bereken nu de spanning over R1 en R2.
 >> * Stel de laboratorium voeding in op 10V en sluit deze aan op de schakeling (GND eerst).
