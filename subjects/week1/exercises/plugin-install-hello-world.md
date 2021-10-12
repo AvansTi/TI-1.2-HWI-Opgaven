@@ -9,7 +9,7 @@
 >> * Herstart IntelliJ
 >> * De plugin zou nu geinstalleerd moeten zijn. Te controleren doordat er een menu met Boebot is toegevoegd.
 >>
->> ![Installatie](images/plugin-install.png)
+>> ![Installatie](include_relative images/plugin-install.png)
 >>
 >> Maak nu een nieuw BoeBot project aan in IntelliJ. In het project neem je de code Hello World op en deze upload je naar de BoeBot. Controleer of de BoeBot de code ook uitvoert en terug geeft in IntelliJ output window.
 >>
