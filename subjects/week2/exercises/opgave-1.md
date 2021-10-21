@@ -1,8 +1,8 @@
 >> ### Opgave 1 - Parallel circuit
 >>
->> Maak m.b.v. de extra hardware kit onderstaande schakeling, de weerstand waarden zijn per opgave beschreven
+>> Maak met behulp van de extra hardware kit onderstaande schakeling, de weerstand waarden zijn per opgave beschreven
 >>
->> ![Parallel Circuit] (exercises/images/parallel.png)
+>> ![Parallel Circuit](exercises/images/parallel.png)
 >>
 >> - **A** R1 t/m R5 = 10 KΩ, bereken de vervangingsweerstand en meet dit met de multimeter.
 >> - **B** R1 t/m R5 = 100 KΩ, bereken de vervangingsweerstand en meet dit.

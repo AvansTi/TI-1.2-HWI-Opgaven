@@ -4,8 +4,7 @@
 >>
 >> - **A** ```void gaNaarSnelheid(int snelheid)```
 >> Laat de BoeBot rustig optrekken naar een bepaalde snelheid. Negatieve getallen gaan achteruit, positieve getallen vooruit, 0 laat de BoeBot rustig stoppen. De methode returned pas nadat de BoeBot op snelheid is gekomen.
->>> Let op, de BoeBot moet hiervoor dus de huidige snelheid onthouden.
->> {: .tip}
+>> *Let op, de BoeBot moet hiervoor dus de huidige snelheid onthouden.*
 >> - **B** ```void noodRem()```
 >> Laat de BoeBot meteen stoppen.
 >> - **C** ```void draaien(int draaiSnelheid)```
