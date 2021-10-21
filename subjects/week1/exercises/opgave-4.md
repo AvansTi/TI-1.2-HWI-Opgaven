@@ -6,6 +6,6 @@
 >> * Als je de schakelaar indrukt, gaat een LED knipperen (1 seconde aan, 1 seconde uit)
 >> * Als je de schakelaar indrukt, gaat de eerste LED knipperen (1.3 seconde aan, 0.7 seconde uit), en de tweede LED uit. Als de schakelaar niet ingedrukt is, gaat de tweede LED aan.
 >>
->> ![Installatie](images/button-schema.png)
+>> ![Button Schema](exercises/images/button-schema.png)
 >>
 >{: .exercise}
