@@ -1,4 +1,4 @@
->> ### Opgave 4 - Ultrasone 2-pin mode
+>> ### Opgave 4 - Ultrasonic 2-pin mode
 >>
 >> Sluit de ultrasoon afstandsdetector aan, in 2-pin mode. **[SCHOOL]**
 >>
