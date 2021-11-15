@@ -16,13 +16,11 @@
 >>>          System.out.println("Pulse: " + pulse);
 >>>          BoeBot.wait(50);
 >>>    }
->>>}
->>> ``` 
+>>>}```
 >>
 >> - **A** Neem het bovenstaande progrmma over, om de lengte van de puls te meten en weer te geven
 >> - **B** Sluit een oscilloscoop aan op de signaalpinnen van de detector. Laat een aantal verschillende afbeeldingen van het signaal zien, met verschillende afstanden
 >>		- Klopt de gemeten tijd met de tijd van de applicatie?
 >>		- Wat is de tijd tussen de uitgezonden puls van de BoeBot en het ontvangen signaal?
-
 >>
 >{: .exercise}
