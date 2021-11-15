@@ -1,7 +1,5 @@
 >> ### Opgave 7
 >>
->> Neem uit de extra hardware kit een 470Ω, 4700Ω (4k7) en een 47000Ω (47k) weerstand.
->>
 >> - **A** Maak de volgende schakeling. 
 >>
 >> ![Seriele schakeling](exercises/images/serial-circuit.png)
