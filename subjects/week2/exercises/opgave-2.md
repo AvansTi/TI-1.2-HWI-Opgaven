@@ -1,6 +1,9 @@
 >> ### Opgave 2 - PWM LED
 >>
->> Sluit een LED (met serie-weerstand natuurlijk) aan tussen een GPIO-pin en +5 Volt **[SCHOOL]**.
+>> - *School*{: .badge .badge-primary }
+>>{: .tags }
+>>
+>> Sluit een LED (met serie-weerstand natuurlijk) aan tussen een GPIO-pin en +5 Volt.
 >>
 >> - **A** Stuur een PWM-signaal naar deze pin en kijk hoe de LED reageert.
 >> - **B** Vanaf welke duty-cycle is het te zien dat de LED brandt?

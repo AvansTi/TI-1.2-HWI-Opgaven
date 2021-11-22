@@ -1,6 +1,9 @@
 >> ### Opgave 5 - Servo rust
 >>
->> Maak een programma om een rust-signaal (zie de sheets uit de les) naar de servomotoren te sturen. Laat de schakelaar voor de servomotoren nog uit staan **[SCHOOL]**.
+>> - *School*{: .badge .badge-primary }
+>>{: .tags }
+>>
+>> Maak een programma om een rust-signaal (zie de sheets uit de les) naar de servomotoren te sturen. Laat de schakelaar voor de servomotoren nog uit staan.
 >>
 >> - **A** Meet allereerst of het signaal goed is met een oscilloscoop, en neem een afbeelding van het signaal op in je groeidocument.
 >> - **B** Zet de schakelaar voor de servomotoren aan, en regel de servomotoren af door de afstelschroeven rustig te draaien.
