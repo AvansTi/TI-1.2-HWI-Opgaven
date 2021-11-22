@@ -1,6 +1,10 @@
 >> ### Opgave 1 - Infrarood signaal
 >>
->> Sluit een IR ontvanger aan volgens de schakeling **[SCHOOL]**
+>> - *School*{: .badge .badge-primary }
+>>{: .tags }
+>>
+>>
+>> Sluit een IR ontvanger aan volgens de schakeling
 >>
 >> ![Parallel Circuit](exercises/images/ir-circuit.png)
 >>
